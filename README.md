@@ -1,4 +1,4 @@
-<h2> Hi, I'm Artur! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Arthur! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -8,7 +8,7 @@ class SWOMH:
 
     def __init__(self):
         self.username = 'SWOMH'
-        self.name = 'Artur'
+        self.name = 'Arthur'
         self.position = 'Python Backend Developer'    
         self.blog = 'https://t.me/+EVknrnVr6QEzOTQy'
         self.code = {
