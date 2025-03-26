@@ -9,7 +9,8 @@ class SWOMH:
     def __init__(self):
         self.username = 'SWOMH'
         self.name = 'Arthur'
-        self.position = 'Python Backend Developer'    
+        self.position = 'Python Backend Developer'
+        self.gitlab = 'https://gitlab.com/SWOMH'
         self.blog = 'https://t.me/+EVknrnVr6QEzOTQy'
         self.code = {
             'backend': ['Python', 'FastAPI', 'Django', 'Flask'],
