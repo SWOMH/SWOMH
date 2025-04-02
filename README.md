@@ -62,7 +62,6 @@ if __name__ == '__main__':
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
 </h4>
