@@ -58,7 +58,6 @@ if __name__ == '__main__':
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
